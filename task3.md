@@ -1,5 +1,6 @@
 
-![Uploading Screenshot 2025-01-29 at 11.14.52 AM.png…]()
+<img width="1308" alt="Screenshot 2025-01-29 at 11 10 28 AM" src="https://github.com/user-attachments/assets/29b9ea4c-09fb-4623-94e6-037ea0a39eac" />
+
 
 Interpretation of the probability:
 Probability is 0.60 and 0.65 respectively for multinomial and Bernoulli based Naïve Bayes – means that model is 65% confident that sample belongs to class “-”. 
